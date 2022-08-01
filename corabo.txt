@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 名前は杉田律です。
 千葉県千葉市出身誕生日10月4日です。
 プレゼント待ってます。
+=======
+私の名前は冨田優旗です。
+My name is yuki tomita.
+Nice to meet you.
+>>>>>>> develop
